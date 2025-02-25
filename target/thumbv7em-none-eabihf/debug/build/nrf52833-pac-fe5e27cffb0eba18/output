@@ -1,0 +1,3 @@
+cargo:rustc-link-search=C:\Users\wojti\Desktop\my projects\blink_rust_led\target\thumbv7em-none-eabihf\debug\build\nrf52833-pac-fe5e27cffb0eba18\out
+cargo:rerun-if-changed=device.x
+cargo:rerun-if-changed=build.rs

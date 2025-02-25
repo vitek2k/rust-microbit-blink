@@ -1,0 +1,9 @@
+C:\Users\wojti\Desktop\my projects\blink_rust_led\target\thumbv7em-none-eabihf\debug\deps\libembedded_io-044b78f4ae8a1e67.rmeta: C:\Users\wojti\.cargo\registry\src\index.crates.io-6f17d22bba15001f\embedded-io-0.6.1\src\lib.rs C:\Users\wojti\.cargo\registry\src\index.crates.io-6f17d22bba15001f\embedded-io-0.6.1\src\impls\mod.rs C:\Users\wojti\.cargo\registry\src\index.crates.io-6f17d22bba15001f\embedded-io-0.6.1\src\impls\slice_mut.rs C:\Users\wojti\.cargo\registry\src\index.crates.io-6f17d22bba15001f\embedded-io-0.6.1\src\impls\slice_ref.rs C:\Users\wojti\.cargo\registry\src\index.crates.io-6f17d22bba15001f\embedded-io-0.6.1\src\../README.md
+
+C:\Users\wojti\Desktop\my projects\blink_rust_led\target\thumbv7em-none-eabihf\debug\deps\embedded_io-044b78f4ae8a1e67.d: C:\Users\wojti\.cargo\registry\src\index.crates.io-6f17d22bba15001f\embedded-io-0.6.1\src\lib.rs C:\Users\wojti\.cargo\registry\src\index.crates.io-6f17d22bba15001f\embedded-io-0.6.1\src\impls\mod.rs C:\Users\wojti\.cargo\registry\src\index.crates.io-6f17d22bba15001f\embedded-io-0.6.1\src\impls\slice_mut.rs C:\Users\wojti\.cargo\registry\src\index.crates.io-6f17d22bba15001f\embedded-io-0.6.1\src\impls\slice_ref.rs C:\Users\wojti\.cargo\registry\src\index.crates.io-6f17d22bba15001f\embedded-io-0.6.1\src\../README.md
+
+C:\Users\wojti\.cargo\registry\src\index.crates.io-6f17d22bba15001f\embedded-io-0.6.1\src\lib.rs:
+C:\Users\wojti\.cargo\registry\src\index.crates.io-6f17d22bba15001f\embedded-io-0.6.1\src\impls\mod.rs:
+C:\Users\wojti\.cargo\registry\src\index.crates.io-6f17d22bba15001f\embedded-io-0.6.1\src\impls\slice_mut.rs:
+C:\Users\wojti\.cargo\registry\src\index.crates.io-6f17d22bba15001f\embedded-io-0.6.1\src\impls\slice_ref.rs:
+C:\Users\wojti\.cargo\registry\src\index.crates.io-6f17d22bba15001f\embedded-io-0.6.1\src\../README.md:

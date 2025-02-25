@@ -1,0 +1,6 @@
+$ mkdir -p "C:\\Users\\wojti\\Desktop\\my projects\\blink_rust_led\\target\\thumbv7em-none-eabihf\\debug\\build\\az-1c5bd505ce5db9a1\\out\\try_track_caller"
+$ cd "C:\\Users\\wojti\\Desktop\\my projects\\blink_rust_led\\target\\thumbv7em-none-eabihf\\debug\\build\\az-1c5bd505ce5db9a1\\out\\try_track_caller"
+$ printf '%s' "// try_tra"... > "C:\\Users\\wojti\\Desktop\\my projects\\blink_rust_led\\target\\thumbv7em-none-eabihf\\debug\\build\\az-1c5bd505ce5db9a1\\out\\try_track_caller\\try_track_caller.rs"
+$ "C:\\Users\\wojti\\.rustup\\toolchains\\stable-x86_64-pc-windows-msvc\\bin\\rustc.exe" "try_track_caller.rs" "--emit=dep-info,metadata" >& /dev/null
+cargo:rustc-cfg=track_caller
+$ rm -r "C:\\Users\\wojti\\Desktop\\my projects\\blink_rust_led\\target\\thumbv7em-none-eabihf\\debug\\build\\az-1c5bd505ce5db9a1\\out\\try_track_caller"

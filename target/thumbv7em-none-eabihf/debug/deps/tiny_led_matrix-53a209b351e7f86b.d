@@ -1,0 +1,9 @@
+C:\Users\wojti\Desktop\my projects\blink_rust_led\target\thumbv7em-none-eabihf\debug\deps\libtiny_led_matrix-53a209b351e7f86b.rmeta: C:\Users\wojti\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tiny-led-matrix-1.0.2\src\lib.rs C:\Users\wojti\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tiny-led-matrix-1.0.2\src\control.rs C:\Users\wojti\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tiny-led-matrix-1.0.2\src\display.rs C:\Users\wojti\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tiny-led-matrix-1.0.2\src\timer.rs C:\Users\wojti\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tiny-led-matrix-1.0.2\src\render.rs
+
+C:\Users\wojti\Desktop\my projects\blink_rust_led\target\thumbv7em-none-eabihf\debug\deps\tiny_led_matrix-53a209b351e7f86b.d: C:\Users\wojti\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tiny-led-matrix-1.0.2\src\lib.rs C:\Users\wojti\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tiny-led-matrix-1.0.2\src\control.rs C:\Users\wojti\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tiny-led-matrix-1.0.2\src\display.rs C:\Users\wojti\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tiny-led-matrix-1.0.2\src\timer.rs C:\Users\wojti\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tiny-led-matrix-1.0.2\src\render.rs
+
+C:\Users\wojti\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tiny-led-matrix-1.0.2\src\lib.rs:
+C:\Users\wojti\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tiny-led-matrix-1.0.2\src\control.rs:
+C:\Users\wojti\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tiny-led-matrix-1.0.2\src\display.rs:
+C:\Users\wojti\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tiny-led-matrix-1.0.2\src\timer.rs:
+C:\Users\wojti\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tiny-led-matrix-1.0.2\src\render.rs:

@@ -1,0 +1,11 @@
+C:\Users\wojti\Desktop\my projects\blink_rust_led\target\thumbv7em-none-eabihf\debug\deps\libhalf-ff265ad27b84bb00.rmeta: C:\Users\wojti\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.4.1\src\lib.rs C:\Users\wojti\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.4.1\src\bfloat.rs C:\Users\wojti\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.4.1\src\bfloat\convert.rs C:\Users\wojti\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.4.1\src\binary16.rs C:\Users\wojti\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.4.1\src\binary16\arch.rs C:\Users\wojti\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.4.1\src\leading_zeros.rs C:\Users\wojti\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.4.1\src\slice.rs
+
+C:\Users\wojti\Desktop\my projects\blink_rust_led\target\thumbv7em-none-eabihf\debug\deps\half-ff265ad27b84bb00.d: C:\Users\wojti\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.4.1\src\lib.rs C:\Users\wojti\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.4.1\src\bfloat.rs C:\Users\wojti\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.4.1\src\bfloat\convert.rs C:\Users\wojti\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.4.1\src\binary16.rs C:\Users\wojti\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.4.1\src\binary16\arch.rs C:\Users\wojti\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.4.1\src\leading_zeros.rs C:\Users\wojti\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.4.1\src\slice.rs
+
+C:\Users\wojti\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.4.1\src\lib.rs:
+C:\Users\wojti\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.4.1\src\bfloat.rs:
+C:\Users\wojti\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.4.1\src\bfloat\convert.rs:
+C:\Users\wojti\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.4.1\src\binary16.rs:
+C:\Users\wojti\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.4.1\src\binary16\arch.rs:
+C:\Users\wojti\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.4.1\src\leading_zeros.rs:
+C:\Users\wojti\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.4.1\src\slice.rs:
